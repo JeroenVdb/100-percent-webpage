@@ -1,6 +1,9 @@
 # Add Proper MIME-Type for Favicon
 AddType image/x-icon .ico
 
+# Set charset to utf-8
+AddCharset UTF-8 .html
+
 # Enable Apache's mod_expires Module
 ExpiresActive On
 
