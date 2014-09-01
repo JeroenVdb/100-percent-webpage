@@ -8,6 +8,7 @@ This website must obtain a score of 100% on all performance and best practice te
 - Added favicon so we don't get any 404 errors
 - Enabled gzip via the .htaccess
 - Added (long) expire dates for favicon + default expire date
+- Enabled Cloudflare CDN (free account)
 - Added character encoding type to the Response Header instead of inlining it into the <head>
 
 ## Tested with
