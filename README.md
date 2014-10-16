@@ -10,6 +10,7 @@ This website must obtain a score of 100% on all performance and best practice te
 - Added (long) expire dates for favicon + default expire date
 - Enabled Cloudflare CDN (free account)
 - Added character encoding type to the Response Header instead of inlining it into the <head>
+- Add images to the webpage: saved via Photoshop (save for web): Progressive JPEG + quality set to 60%
 
 ## Tested with
 

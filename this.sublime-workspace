@@ -1,0 +1,1414 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cookiewall",
+				"cookiewallAccepted"
+			],
+			[
+				"cookiew",
+				"cookiewallAccepted"
+			],
+			[
+				"cookie",
+				"cookiewall"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"cookei",
+				"cookiewall"
+			],
+			[
+				"tea",
+				"text-align"
+			],
+			[
+				"MIDDLE",
+				"MIDDLE_LEFT"
+			],
+			[
+				"has",
+				"hasOwnProperty"
+			],
+			[
+				"first",
+				"firstRun"
+			],
+			[
+				"Con",
+				"containers"
+			],
+			[
+				"ci",
+				"container"
+			],
+			[
+				"rank",
+				"ranking"
+			],
+			[
+				"conta",
+				"container"
+			],
+			[
+				"fir",
+				"firstRun"
+			],
+			[
+				"att",
+				"_attachDataToContainer"
+			],
+			[
+				"touch",
+				"touchmove"
+			],
+			[
+				"debug",
+				"debugElement"
+			],
+			[
+				"focus",
+				"focusout"
+			],
+			[
+				"gerne",
+				"genre"
+			],
+			[
+				"filter",
+				"filterWithSearch"
+			],
+			[
+				"sear",
+				"searchReview"
+			],
+			[
+				"stat",
+				"statistics"
+			],
+			[
+				"sso",
+				"ssoEvent"
+			],
+			[
+				"ss",
+				"ssoEvent"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"th",
+				"th:if	Thymeleaf"
+			],
+			[
+				"sul",
+				"sublimeCompletions"
+			],
+			[
+				"background-",
+				"background-image"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"selected_items":
+		[
+			[
+				"copy na",
+				"File: Copy Name"
+			],
+			[
+				"synta html",
+				"Set Syntax: HTML"
+			],
+			[
+				"log",
+				"Git: Log Current File"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"check",
+				"Git: Checkout Current File"
+			],
+			[
+				"save all",
+				"File: Save All"
+			],
+			[
+				"save a",
+				"File: Save All"
+			],
+			[
+				"chekc",
+				"Git: Checkout Current File"
+			],
+			[
+				"chec",
+				"Git: Checkout Current File"
+			],
+			[
+				"checkout",
+				"Git: Checkout Current File"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"git blame",
+				"Git: Blame"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"blae",
+				"Set Syntax: Git Blame"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"checkou",
+				"Git: Checkout Current File"
+			],
+			[
+				"chec k",
+				"Git: Checkout Current File"
+			],
+			[
+				"copy pa",
+				"File: Copy Path"
+			],
+			[
+				"wrap",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"iden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"copy",
+				"File: Copy Path"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"copy path",
+				"File: Copy Path"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"copy p",
+				"File: Copy Path"
+			],
+			[
+				"copy pat",
+				"File: Copy Path"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"copy n",
+				"File: Copy Name"
+			],
+			[
+				"cop",
+				"File: Copy Path"
+			],
+			[
+				"revert",
+				"TortoiseSVN: Revert"
+			],
+			[
+				"sv ",
+				"TortoiseSVN: Revert"
+			],
+			[
+				"wra t",
+				"Word Wrap: Toggle"
+			],
+			[
+				"reve",
+				"File: Reveal"
+			],
+			[
+				"svn",
+				"TortoiseSVN: Revert"
+			],
+			[
+				"update",
+				"TortoiseSVN: Update"
+			],
+			[
+				"svn l",
+				"TortoiseSVN: Log"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"copy ",
+				"File: Copy Path"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"rev",
+				"File: Reveal"
+			],
+			[
+				" package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"paca",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 198.0,
+		"history":
+		[
+			"view.run_command('thymeleaf')",
+			"div",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/working_dir/100-percent-webpage"
+	],
+	"file_history":
+	[
+		"/C/working_dir/volkskrant/site/site-core/src/main/java/net/persgroep/site/support/spring/view/PeTilesJstlView.java",
+		"/C/working_dir/volkskrant/script/server.sh",
+		"/C/working_dir/volkskrant/script/application.log",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/test/java/net/persgroep/site/orange/vk/CultuurRecensiesIT.java",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-SRC/js/test/runner/SpecRunner.html",
+		"/C/working_dir/volkskrant/site/site-support/src/main/java/net/persgroep/site/support/context/SiteContext.java",
+		"/C/working_dir/volkskrant/script/bootstrap.sh",
+		"/C/working_dir/volkskrant/site/site-core/src/main/java/net/persgroep/site/tag/RemovePrefixTag.java",
+		"/C/working_dir/volkskrant/site/site-core/src/test/resources/config.properties",
+		"/C/working_dir/volkskrant/site/site-core/src/test/resources/context/callisto/util/override.properties",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-INF/jsp/includes/component/cult/offerChapeau.jsp",
+		"/C/working_dir/volkskrant/site/site-core/src/test/java/net/persgroep/site/ankeiler/OfferAnkeilerVOTest.java",
+		"/C/working_dir/volkskrant/site/site-core/src/main/java/net/persgroep/site/ankeiler/OfferAnkeilerVOFactory.java",
+		"/C/working_dir/volkskrant/site/site-core/src/main/java/net/persgroep/site/ankeiler/OfferAnkeilerVO.java",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-INF/orion-web.xml",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/js/main-head.js",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/js/config.js",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-INF/tags/article-label.tag",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-SRC/grunt/aliases.yaml",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-INF/jsp/includes/css.jsp",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-SRC/csssrc/main.css",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/maintenance_nl.htm",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/maintenance.html",
+		"/C/working_dir/volkskrant/site/site-core/src/main/java/net/persgroep/site/info/ManifestAttribute.java",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-SRC/Gruntfile.js",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-INF/glassfish-web.xml",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-INF/jsp/js/js-body.jsp",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-INF/jsp/includes/js-head.jsp",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-INF/jsp/error/404-static.jsp",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-INF/site-servlet.xml",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-SRC/sass/_site-settings.scss",
+		"/C/working_dir/volkskrant/site/site-core/src/test/java/net/persgroep/util/AuthorShortBuilder.java",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/js/main.js",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-SRC/sass/modules_sso/_modules_sso.scss",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-SRC/js/custom/sso.js",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-SRC/js/advertising/persgroep-dfp.js",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/css/main.css",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-SRC/grunt/watch.js",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-SRC/sass/modules/_advertising.scss",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-SRC/grunt/sass.js",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-SRC/sass/main.scss",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/js/main.min.js",
+		"/C/working_dir/volkskrant/site/site-core/src/test/resources/log4j.properties",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-SRC/sass/layout/_layout.scss",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-INF/jsp/layouts/authorDetail.jsp",
+		"/C/working_dir/volkskrant/site/site-core/src/main/java/net/persgroep/site/common/header/controller/HeaderController.java",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/test/java/net/persgroep/site/common/header/HeaderPage.java",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/test/java/net/persgroep/site/common/header/HeaderIT.java",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-SRC/sass/modules/_headers.scss",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/test/java/net/persgroep/site/common/HeaderPage.java",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-INF/jsp/includes/header.jsp",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-INF/jsp/includes/head.jsp",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/config/beta/httpd.conf",
+		"/C/working_dir/volkskrant/site/site-core/web/src/main/webapp/WEB-INF/tld/pe.tld",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-SRC/package.json",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-INF/jsp/includes/component/article/detail/sub/chapeauExtended.jsp",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-INF/jsp/includes/component/article/detail/sub/chapeau.jsp",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-INF/jsp/layouts/articleDetail.jsp",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-INF/tiles/component/article.xml",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-SRC/js/main.storystream.js",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-INF/jsp/includes/component/article/detail/container/live.jsp",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-SRC/grunt/concurrent.js",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-SRC/sass/layout/_layouts.scss",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-INF/jsp/includes/component/article/recensies/chapeau.jsp",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-INF/jsp/includes/component/cult/chapeau.jsp",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-INF/jsp/common/author/detail/chapeau.jsp",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-INF/jsp/common/weather/chapeau.jsp",
+		"/C/working_dir/volkskrant/site/site-core/src/main/java/net/persgroep/site/common/enums/weather/CitiesHomeMap.java",
+		"/C/working_dir/volkskrant/site/site-core/src/main/java/net/persgroep/site/teaser/block/Layout.java",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-INF/jsp/common/archive/listArchive.jsp",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/robots.txt",
+		"/C/working_dir/volkskrant/site/site-core/src/main/java/net/persgroep/site/common/enums/SessionAttribute.java",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-SRC/grunt/concat.js",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/test/java/net/persgroep/site/archive/ArchiveListIT.java",
+		"/C/working_dir/volkskrant/application.log",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/css/main-blessed1.css",
+		"/C/working_dir/volkskrant/site/site-core/src/test/resources/calisto-test-settings-vkplus.properties",
+		"/C/working_dir/volkskrant/site/site-core/src/test/java/net/persgroep/site/common/SpringBindingIT.java",
+		"/C/working_dir/volkskrant/site/site-support/pom.xml",
+		"/C/working_dir/volkskrant/site/site-core/src/test/java/net/persgroep/spring/test/SomeInterface.java",
+		"/C/working_dir/volkskrant/site/site-core/src/test/resources/net/persgroep/site/support/spring/filter/lorem-ipsum.txt",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-SRC/js/test/specs/main.navigation.mobileNav.test.js",
+		"/C/working_dir/volkskrant/script/build.sh",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-SRC/js/main.sharer.js",
+		"/C/working_dir/facebook-share/index.html",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-SRC/js/main.myVK.js",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-SRC/js/main.ajax.js",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-INF/jsp/common/myvk/readLater.jsp",
+		"/C/working_dir/volkskrant/README.md",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/test/java/net/persgroep/site/common/myvk/MyVKIT.java",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-SRC/js/custom/myvk.js",
+		"/C/working_dir/volkskrant/site/mvn-test.txt",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-INF/jsp/includes/component/article/share/simpleShareCount.jsp",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-INF/jsp/includes/component/article/share/extendShareCount.jsp",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-INF/jsp/common/teaser/ankeiler/extendShareCount.jsp",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-INF/jsp/includes/component/article/detail/right/mostShared.jsp",
+		"/C/working_dir/volkskrant/site/site-core/src/main/java/net/persgroep/site/ankeiler/ShareCountVO.java",
+		"/C/working_dir/volkskrant/site/site-core/src/main/resources/velocity/mails/shareMail.vm",
+		"/C/Users/jvandenberghe/Desktop/tmp/index.html",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-INF/jsp/layouts/base.jsp",
+		"/C/Users/jvandenberghe/Desktop/tmp/load-prestitial.html",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/scripts/local-start.sh",
+		"/C/working_dir/Marvel.sublime-projecten/volkskrant.sublime-project",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-INF/tags/horizontal-article.tag",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-SRC/grunt/shell.js",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-SRC/js/3rdparty/jquery.validate.min.js",
+		"/C/working_dir/volkskrant/.gitignore",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-INF/jsp/common/agenda/searchResult.jsp",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-INF/jsp/js/ssoEvent.jsp",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-SRC/sass/modules/_story-stream.scss",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-INF/jsp/includes/component/article/detail/right/storyStreams.jsp",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-INF/jsp/layouts/storyStreamMore.jsp",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-INF/jsp/layouts/storyStream.jsp",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-INF/jsp/common/myvk/secondaryAndTertiaryCol.jsp",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-INF/jsp/includes/footer.jsp",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-INF/jsp/navigation/primaryNavigation.jsp",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-SRC/sass/modules/_ankeilers.scss",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-INF/jsp/includes/component/article/ankeiler/ankeilerList.jsp",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-INF/jsp/common/teaser/ankeiler/ankeiler.jsp",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-INF/jsp/includes/component/article/detail/sub/footer/defaultFooter.jsp",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-SRC/js/main.ajax.form.js",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-SRC/js/custom/firstuse.js",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-SRC/js/custom/custom.js",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-SRC/js/custom/allReviews.js",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-SRC/js/custom/actua.js",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-SRC/js/config/config.js",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-INF/jsp/common/teaser/ankeiler/type/new/dvd.jsp",
+		"/C/working_dir/volkskrant/orange/orange-vk/web/src/main/webapp/WEB-INF/tags/ankeiler.tag"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"<project>, *.jsp",
+			"<project>",
+			"<project>, *.xml",
+			"<project>, *.js",
+			"<project>, *.scss",
+			"<project>, *.js",
+			"<project>, *.xml",
+			"<project>, *.jsp",
+			"<project>, *.scss",
+			"<project>, *.jsp",
+			"<project>, *.js",
+			"<project>, *.scss",
+			"<project>, *.jsp",
+			"C:\\working_dir\\volkskrant\\orange\\orange-vk\\web\\src\\main\\webapp\\WEB-SRC\\js\\, *.js",
+			"<project>, *.js",
+			"<project>, *.jsp",
+			"<project>, *.scss",
+			"<project>",
+			"<project>, *.jsp",
+			"<project>, *.xml",
+			"<project>",
+			"<project>, *.jsp",
+			"<project>, *.scss",
+			"<project>",
+			"<project>, *.js",
+			"<project>, *.jsp",
+			"<project>",
+			"<project>, *.jsp",
+			"<project>, *.xml",
+			"<project>",
+			"<project>, *.xml",
+			"<project>, *.scss",
+			"<project>",
+			"<open files>",
+			"<project>, *.jsp",
+			"<project>, *.js",
+			"<project>",
+			"<project>, *.scss",
+			"<project>",
+			"<project>, *.js",
+			"<project>, *.scss",
+			"<project>",
+			"C:\\working_dir\\volkskrant\\orange\\orange-vk\\web\\src\\main\\webapp\\WEB-SRC\\sass",
+			"<open files>",
+			"C:\\working_dir\\volkskrant\\orange\\orange-vk\\web\\src\\main\\webapp\\WEB-SRC",
+			"C:\\working_dir\\volkskrant\\",
+			"C:\\working_dir\\volkskrant\\, *.jsp",
+			"C:\\working_dir\\volkskrant\\",
+			"C:\\working_dir\\volkskrant\\orange\\orange-vk\\web\\src\\main\\webapp\\WEB-SRC\\js",
+			"<project>",
+			"C:\\working_dir\\volkskrant\\orange\\orange-vk\\web\\src\\main\\webapp\\WEB-SRC\\js",
+			"<project>, *.js",
+			"<project>, *.jsp",
+			"<project>",
+			"C:\\working_dir\\volkskrant\\orange\\orange-vk\\web\\src\\main\\webapp\\WEB-INF\\tiles",
+			"<project>, *.jsp",
+			"C:\\working_dir\\orange\\orange-vk\\web\\src\\main\\webapp\\WEB-SRC",
+			"<project>, *.jsp",
+			"<project>, *.jspµ",
+			"<project>",
+			"<project>, *.jsp",
+			"<project>, *.html",
+			"<project>, *.xml",
+			"<project>, *.jsp",
+			"C:\\working_dir\\orange\\orange-vk\\web\\src\\main\\webapp\\WEB-INF\\tiles",
+			"<project>, *.jsp",
+			"<project>",
+			"<project>, *.jsp",
+			"<project>",
+			"C:\\sites\\working_dir_trunk\\pes\\pes-site\\pes-site-core\\web\\src\\main\\webapp\\WEB-INF\\jsp\\common\\teaser",
+			"C:\\sites\\working_dir_trunk\\pes\\pes-site\\pes-site-core\\web\\src\\main\\webapp\\WEB-INF\\jsp\\common\\",
+			"C:\\sites\\working_dir_trunk\\pes\\pes-site\\pes-site-core\\web\\src\\main\\webapp\\WEB-INF\\jsp\\common\\teaser",
+			"C:\\sites\\working_dir_trunk\\pes\\pes-site\\pes-site-core\\web\\src\\main\\webapp\\WEB-INF\\jsp\\common\\teaser\\bn",
+			"<project>",
+			"<project>, *.jsp",
+			"C:\\sites\\working_dir_trunk\\pes\\pes-site\\pes-site-core\\web\\src\\main\\webapp",
+			"C:\\sites\\working_dir_trunk\\pes\\pes-site\\pes-site-core\\web\\src\\main\\webapp\\WEB-INF\\tiles",
+			"C:\\sites\\working_dir_trunk\\pes\\pes-site\\pes-site-core\\web\\src\\main\\webapp",
+			"C:\\sites\\working_dir_trunk\\peps\\peps-site\\peps-hln\\web\\src\\main\\webapp",
+			"C:\\sites\\working_dir_trunk\\pes\\pes-site\\pes-site-core\\web\\src\\main\\webapp",
+			"C:\\sites\\working_dir_trunk\\pes\\pes-site\\pes-site-core\\web\\src\\main\\webapp\\",
+			"C:\\sites\\working_dir_trunk\\pes\\pes-site\\pes-site-core\\web\\src\\main\\webapp\\WEB-INF\\",
+			"C:\\sites\\working_dir_trunk\\pes\\pes-site\\pes-site-core\\web\\src\\main\\webapp\\WEB-INF\\tiles\\templates\\virgo",
+			"C:\\sites\\working_dir_trunk\\pes\\pes-site\\pes-site-core\\web\\src\\main\\webapp",
+			"C:\\sites\\working_dir_trunk\\pes\\pes-site\\pes-site-core\\web\\src\\main\\webapp\\WEB-INF\\jsp\\templates\\libra\\component\\article",
+			"C:\\sites\\working_dir_trunk\\pes\\pes-site\\pes-site-core\\web\\src\\main\\webapp\\WEB-INF\\jsp\\templates\\libra\\component\\list1.jsp,C:\\sites\\working_dir_trunk\\pes\\pes-site\\pes-site-core\\web\\src\\main\\webapp\\WEB-INF\\jsp\\templates\\libra\\component\\list10.jsp,C:\\sites\\working_dir_trunk\\pes\\pes-site\\pes-site-core\\web\\src\\main\\webapp\\WEB-INF\\jsp\\templates\\libra\\component\\list11.jsp,C:\\sites\\working_dir_trunk\\pes\\pes-site\\pes-site-core\\web\\src\\main\\webapp\\WEB-INF\\jsp\\templates\\libra\\component\\list2.jsp,C:\\sites\\working_dir_trunk\\pes\\pes-site\\pes-site-core\\web\\src\\main\\webapp\\WEB-INF\\jsp\\templates\\libra\\component\\list3.jsp,C:\\sites\\working_dir_trunk\\pes\\pes-site\\pes-site-core\\web\\src\\main\\webapp\\WEB-INF\\jsp\\templates\\libra\\component\\list4.jsp,C:\\sites\\working_dir_trunk\\pes\\pes-site\\pes-site-core\\web\\src\\main\\webapp\\WEB-INF\\jsp\\templates\\libra\\component\\list5.jsp,C:\\sites\\working_dir_trunk\\pes\\pes-site\\pes-site-core\\web\\src\\main\\webapp\\WEB-INF\\jsp\\templates\\libra\\component\\list6.jsp,C:\\sites\\working_dir_trunk\\pes\\pes-site\\pes-site-core\\web\\src\\main\\webapp\\WEB-INF\\jsp\\templates\\libra\\component\\list7.jsp,C:\\sites\\working_dir_trunk\\pes\\pes-site\\pes-site-core\\web\\src\\main\\webapp\\WEB-INF\\jsp\\templates\\libra\\component\\list8.jsp,C:\\sites\\working_dir_trunk\\pes\\pes-site\\pes-site-core\\web\\src\\main\\webapp\\WEB-INF\\jsp\\templates\\libra\\component\\list9.jsp",
+			"C:\\sites\\working_dir_trunk\\",
+			"C:\\sites\\working_dir_trunk\\pes\\peps-site\\",
+			"C:\\sites\\working_dir_trunk\\peps\\peps-site\\",
+			"C:\\sites\\working_dir_branch_3.9\\peps\\peps-site\\"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"uts",
+			"aanbieding--9",
+			"\\",
+			"we are local",
+			"cons",
+			"cookie",
+			"erase",
+			"readCookie",
+			"createCookie",
+			"carousel__controls",
+			"hyperdistribution",
+			"float",
+			"width",
+			"container",
+			"base-sp",
+			"base",
+			"#2b3043",
+			"modal-over",
+			"name(",
+			"name(g",
+			"name",
+			"hyperdistribution",
+			"cookie",
+			"createCoo",
+			"'.cta'",
+			".cta'",
+			"$('.cta')",
+			"$('.cta').",
+			"grunt",
+			"files: [{\n			expand: true,\n			cwd: '<%= package.sass %>',\n			src: ['*.scss'],\n			dest: '<%= package.csssrc %>',\n			ext: '.css'\n		}]",
+			"title",
+			"js-no",
+			".component.article.detail.chapeau",
+			"name=\"chapeau\"",
+			"articleDetail.jsp",
+			"name=\"chapeau\"",
+			"articleDetail.jsp",
+			"page-main-content",
+			"layout--chape",
+			"page-chapeau",
+			"fingerprint",
+			" && groupedItems.hasOwnProperty('MIDDLE_LEFT')",
+			"data.containers",
+			"cache",
+			"toggle-group",
+			"%26",
+			"&26",
+			"%26",
+			"&",
+			"/",
+			"\\",
+			"typeof",
+			"shareMail.vm",
+			"ehc",
+			"is-empty",
+			"<c:if test=\"${!empty articleMo}\">\n        'compId': '${articleMo.id}',\n        'nodeIds': [<c:forEach items=\"${articleMo.nodes}\" var=\"node\" varStatus=\"status\">${node.id}<c:if test=\"${!status.last}\">,</c:if></c:forEach>],\n        </c:if>",
+			"articleMo",
+			"menuitem",
+			"ankeiler--recensie",
+			"/vk/",
+			"access.do",
+			"save",
+			"save.do",
+			"userdata.do",
+			"/vk/",
+			"/vk",
+			"vk",
+			"ssoCheck",
+			"vk/",
+			"console",
+			").empty()",
+			"_attachDataToContainer",
+			".filter",
+			"</art",
+			"<article",
+			"</article",
+			"</div>",
+			"<div",
+			"article-aside",
+			"</li",
+			"</div",
+			"</art",
+			"pullout--right",
+			"alert",
+			"conso",
+			".id",
+			"_attachDataToContainer",
+			"_setBaseInfo",
+			"data-rank",
+			".ankeiler-rubriek",
+			"ankeiler-rubriek",
+			"\n						",
+			"console.log",
+			"position - 1",
+			"position",
+			"position - 1",
+			"_setBaseInfo",
+			"data-rank",
+			"container.embeddedItems[0].embeddedObject.id",
+			".embeddedObject.id",
+			"_setBaseInfo",
+			"data-rank",
+			"_setBaseInfo",
+			"data-rank",
+			"rank",
+			"position",
+			"_groupEmbeddedItems",
+			"updateTicker",
+			"'updateTicker'",
+			"refresh",
+			"_attachDataToContainer",
+			"#ajax-storystream__item",
+			"append",
+			"$('.story-stream__list', $this)",
+			"append",
+			"ajax",
+			"\\",
+			"close",
+			"utf",
+			"enco",
+			"use str",
+			"use s",
+			"ajax",
+			"data-selector",
+			"firstRun",
+			"twttr",
+			"twitter",
+			"timeline"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/",
+			">",
+			"layer1--large",
+			"aankeiler1--small",
+			"aankeiler1--medium",
+			"aankeiler1--large",
+			"marketing2--small",
+			"marketing2--medium",
+			"marketing2--large",
+			"marketing1--small",
+			"marketing1--medium",
+			"marketing1--large",
+			"mid2--small",
+			"mid2--medium",
+			"mid2--large",
+			"mid1--small",
+			"mid1--medium",
+			"mid1--large",
+			"top1--small",
+			"top1--medium",
+			"top1--large",
+			"<div id=\"top1--3\" class=\"ad dart\">\n    <tiles:insertAttribute name=\"top1-small\"/>\n</div>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "this.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"offer",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-INF\\jsp\\includes\\component\\cult\\offerList.jsp"
+			],
+			[
+				"alias",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-SRC\\grunt\\aliases.yaml"
+			],
+			[
+				"conca",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-SRC\\grunt\\concat.js"
+			],
+			[
+				"templte",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-INF\\jsp\\js\\templates.jsp"
+			],
+			[
+				"main",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-SRC\\js\\main.js"
+			],
+			[
+				"gri",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-SRC\\sass\\layout\\_grid.scss"
+			],
+			[
+				"sites-s",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-SRC\\sass\\_site-settings.scss"
+			],
+			[
+				"base.",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-INF\\jsp\\layouts\\base.jsp"
+			],
+			[
+				"sso.js",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-SRC\\js\\custom\\sso.js"
+			],
+			[
+				"sso",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-SRC\\sass\\modules_sso\\_modules_sso.scss"
+			],
+			[
+				"adverti",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-SRC\\sass\\modules\\_advertising.scss"
+			],
+			[
+				"hea",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-INF\\jsp\\includes\\js-head.jsp"
+			],
+			[
+				"persgroep",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-SRC\\js\\advertising\\persgroep-dfp.js"
+			],
+			[
+				"_layouts.scss",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-SRC\\sass\\layout\\_layouts.scss"
+			],
+			[
+				"chapeauextended.jsp",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-INF\\jsp\\includes\\component\\article\\detail\\sub\\chapeauExtended.jsp"
+			],
+			[
+				"chap",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-INF\\jsp\\includes\\component\\article\\detail\\sub\\chapeau.jsp"
+			],
+			[
+				"layout",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-SRC\\sass\\layout\\_layout.scss"
+			],
+			[
+				"layouts",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-SRC\\sass\\layout\\_layout.scss"
+			],
+			[
+				"layoutscss",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-SRC\\sass\\layout\\_layout.scss"
+			],
+			[
+				"sass",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-SRC\\grunt\\sass.js"
+			],
+			[
+				"concurr",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-SRC\\grunt\\concurrent.js"
+			],
+			[
+				"css",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-INF\\jsp\\includes\\css.jsp"
+			],
+			[
+				"jsb",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-INF\\jsp\\js\\js-body.jsp"
+			],
+			[
+				"site-",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-SRC\\sass\\_site-settings.scss"
+			],
+			[
+				"live.",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-INF\\jsp\\includes\\component\\article\\detail\\container\\live.jsp"
+			],
+			[
+				"boots",
+				"script\\bootstrap.sh"
+			],
+			[
+				"myvkjs",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-SRC\\js\\main.myVK.js"
+			],
+			[
+				"sharejs",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-SRC\\js\\main.sharer.js"
+			],
+			[
+				"sharema",
+				"site\\site-core\\src\\main\\resources\\velocity\\mails\\shareMail.vm"
+			],
+			[
+				"ser",
+				"script\\server.sh"
+			],
+			[
+				"build",
+				"script\\build.sh"
+			],
+			[
+				"storys",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-SRC\\js\\main.storystream.js"
+			],
+			[
+				"live.js",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-INF\\jsp\\includes\\component\\article\\detail\\container\\live.jsp"
+			],
+			[
+				"ank",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-SRC\\sass\\modules\\_ankeilers.scss"
+			],
+			[
+				"nav",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-INF\\jsp\\navigation\\primaryNavigation.jsp"
+			],
+			[
+				"foo",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-INF\\jsp\\includes\\footer.jsp"
+			],
+			[
+				"js-head",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-INF\\jsp\\includes\\js-head.jsp"
+			],
+			[
+				"ankei",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-SRC\\sass\\modules\\_ankeilers.scss"
+			],
+			[
+				"jsh",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-INF\\jsp\\includes\\js-head.jsp"
+			],
+			[
+				"navi",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-INF\\jsp\\navigation\\primaryNavigation.jsp"
+			],
+			[
+				"advertising",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-SRC\\sass\\modules\\_advertising.scss"
+			],
+			[
+				"glassf",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-INF\\glassfish-web.xml"
+			],
+			[
+				"boot",
+				"script\\bootstrap"
+			],
+			[
+				"detail",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-INF\\jsp\\common\\weather\\detail.jsp"
+			],
+			[
+				"story",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-SRC\\js\\main.storystream.js"
+			],
+			[
+				"primarycol",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-INF\\jsp\\includes\\component\\article\\primaryCol.jsp"
+			],
+			[
+				"live",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-INF\\jsp\\includes\\component\\article\\detail\\container\\live.jsp"
+			],
+			[
+				"stream",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-SRC\\js\\main.storystream.js"
+			],
+			[
+				"config",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-SRC\\js\\config\\config.js"
+			],
+			[
+				"js-b",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-INF\\jsp\\js\\js-body.jsp"
+			],
+			[
+				"watch",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-SRC\\grunt\\watch.js"
+			],
+			[
+				"packa",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-SRC\\package.json"
+			],
+			[
+				"ugl",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-SRC\\grunt\\uglify.js"
+			],
+			[
+				"js-h",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-INF\\jsp\\includes\\js-head.jsp"
+			],
+			[
+				"template",
+				"orange\\orange-vk\\web\\src\\main\\webapp\\WEB-INF\\jsp\\js\\templates.jsp"
+			],
+			[
+				"livestr",
+				"site\\site-core\\src\\main\\java\\net\\persgroep\\site\\teaser\\block\\breaking\\LiveStreamVO.java"
+			],
+			[
+				"shae",
+				"site\\site-core\\src\\main\\resources\\velocity\\mails\\shareMail.vm"
+			],
+			[
+				"advert",
+				"WEB-SRC\\sass\\modules\\_advertising.scss"
+			],
+			[
+				"js-hea",
+				"WEB-INF\\jsp\\includes\\js-head.jsp"
+			],
+			[
+				"livede",
+				"WEB-INF\\jsp\\includes\\component\\article\\item\\video.jsp"
+			],
+			[
+				"ads",
+				"WEB-SRC\\js\\advertising\\ads.js"
+			],
+			[
+				"jshead",
+				"WEB-INF\\jsp\\includes\\js-head.jsp"
+			],
+			[
+				"base",
+				"WEB-INF\\jsp\\layouts\\base.jsp"
+			],
+			[
+				"listre",
+				"WEB-INF\\jsp\\includes\\component\\article\\listReviewSection.jsp"
+			],
+			[
+				"ankeil",
+				"WEB-SRC\\sass\\modules\\_ankeilers.scss"
+			],
+			[
+				"head",
+				"WEB-INF\\jsp\\includes\\js-head.jsp"
+			],
+			[
+				"teaserbkicj",
+				"WEB-INF\\jsp\\common\\teaser\\teaserBlock66.news.section.jsp"
+			],
+			[
+				"adver",
+				"WEB-SRC\\sass\\modules\\_advertising.scss"
+			],
+			[
+				"advertisi",
+				"WEB-SRC\\sass\\modules\\_advertising.scss"
+			],
+			[
+				"advan",
+				"WEB-INF\\jsp\\includes\\advertising\\aanbieding.jsp"
+			],
+			[
+				"body",
+				"WEB-INF\\jsp\\js\\js-body.jsp"
+			],
+			[
+				"userdata",
+				"WEB-SRC\\js\\custom\\userData.js"
+			],
+			[
+				"rating",
+				"WEB-SRC\\sass\\modules\\_rating.scss"
+			],
+			[
+				"ankeiler",
+				"WEB-SRC\\sass\\modules\\_ankeilers.scss"
+			],
+			[
+				"author",
+				"WEB-INF\\jsp\\layouts\\authorDetail.jsp"
+			],
+			[
+				"js-",
+				"WEB-INF\\jsp\\includes\\js-head.jsp"
+			],
+			[
+				"icon",
+				"WEB-SRC\\sass\\modules\\_iconfont.scss"
+			],
+			[
+				"liga",
+				"WEB-INF\\jsp\\includes\\advertising\\ligatus.jsp"
+			],
+			[
+				"article.scss",
+				"WEB-SRC\\sass\\modules\\_articles.scss"
+			],
+			[
+				"poll.c",
+				"WEB-SRC\\sass\\modules\\_poll.scss"
+			],
+			[
+				"dropdown",
+				"WEB-SRC\\js\\main.dropdown.js"
+			],
+			[
+				"footer",
+				"WEB-INF\\jsp\\includes\\footer.jsp"
+			],
+			[
+				"hyperd",
+				"WEB-SRC\\js\\main.hyperdistribution.js"
+			],
+			[
+				"review",
+				"WEB-INF\\jsp\\includes\\component\\article\\detail\\top\\reviewTop.jsp"
+			],
+			[
+				"allre",
+				"WEB-SRC\\js\\custom\\allReviews.js"
+			],
+			[
+				"off",
+				"WEB-INF\\jsp\\includes\\component\\cult\\offerList.jsp"
+			],
+			[
+				"offers",
+				"WEB-INF\\jsp\\includes\\component\\cult\\offer.jsp"
+			],
+			[
+				"aanbie",
+				"WEB-INF\\jsp\\includes\\advertising\\aanbieding.jsp"
+			],
+			[
+				"conc",
+				"WEB-SRC\\grunt\\concurrent.js"
+			],
+			[
+				"aanb",
+				"WEB-INF\\jsp\\includes\\advertising\\aanbieding.jsp"
+			],
+			[
+				"filt",
+				"WEB-INF\\jsp\\includes\\component\\article\\recensies\\recensiesFilter.jsp"
+			],
+			[
+				"templa",
+				"WEB-INF\\jsp\\js\\templates.jsp"
+			],
+			[
+				"lightb",
+				"WEB-SRC\\js\\main.lightbox.js"
+			],
+			[
+				"jsbody",
+				"WEB-INF\\jsp\\js\\js-body.jsp"
+			],
+			[
+				"userda",
+				"WEB-SRC\\js\\custom\\userData.js"
+			],
+			[
+				"concat",
+				"WEB-SRC\\grunt\\concat.js"
+			],
+			[
+				"myv",
+				"WEB-SRC\\js\\main.myVK.js"
+			],
+			[
+				"grunt",
+				"WEB-SRC\\Gruntfile.js"
+			],
+			[
+				"hyper",
+				"WEB-SRC\\js\\main.hyperdistribution.js"
+			],
+			[
+				"sites",
+				"WEB-SRC\\sass\\_site-settings.scss"
+			],
+			[
+				"mixi",
+				"WEB-SRC\\sass\\_mixins.scss"
+			],
+			[
+				"landma",
+				"WEB-SRC\\sass\\modules\\_landmark.scss"
+			],
+			[
+				"myvk",
+				"WEB-SRC\\js\\main.myVK.js"
+			],
+			[
+				"ajax",
+				"WEB-SRC\\js\\main.ajax.js"
+			],
+			[
+				"custom",
+				"WEB-SRC\\js\\custom\\custom.js"
+			],
+			[
+				"jsp/layouts/articledetail.jsp",
+				"WEB-INF\\jsp\\layouts\\articleDetail.jsp"
+			],
+			[
+				"articlexml",
+				"WEB-INF\\tiles\\component\\article.xml"
+			],
+			[
+				"defin",
+				"WEB-INF\\tiles\\definitions.xml"
+			],
+			[
+				"form",
+				"WEB-SRC\\js\\main.ajax.form.js"
+			],
+			[
+				"adbt",
+				"WEB-INF\\jsp\\includes\\component\\article\\detail\\right\\adBottom.jsp"
+			],
+			[
+				"recta",
+				"WEB-INF\\jsp\\includes\\advertising\\rectangle.jsp"
+			],
+			[
+				"articlex",
+				"WEB-INF\\tiles\\component\\article.xml"
+			],
+			[
+				"article",
+				"WEB-INF\\tiles\\component\\article.xml"
+			],
+			[
+				"auto",
+				"WEB-INF\\tiles\\common\\autodeploy.xml"
+			],
+			[
+				"teaser79",
+				"WEB-INF\\jsp\\common\\teaser\\teaserBlock79.jsp"
+			],
+			[
+				"agenda",
+				"WEB-INF\\jsp\\common\\agenda\\searchResult.jsp"
+			],
+			[
+				"search",
+				"WEB-INF\\jsp\\common\\agenda\\search.jsp"
+			],
+			[
+				"detail.js",
+				"WEB-INF\\jsp\\includes\\component\\article\\detail\\detail.jsp"
+			],
+			[
+				"main.js",
+				"WEB-SRC\\js\\main.js"
+			],
+			[
+				"teaser/teaserblock79.jsp",
+				"WEB-INF\\jsp\\common\\teaser\\teaserBlock79.jsp"
+			],
+			[
+				"userd",
+				"WEB-SRC\\js\\custom\\userData.js"
+			],
+			[
+				"sear",
+				"WEB-INF\\jsp\\common\\agenda\\search.jsp"
+			],
+			[
+				"us",
+				"js\\custom\\userData.js"
+			],
+			[
+				"action",
+				"WEB-INF\\jsp\\includes\\actionbar.jsp"
+			],
+			[
+				"actions",
+				"WEB-INF\\jsp\\includes\\actions.jsp"
+			],
+			[
+				"main.min",
+				"js\\main.min.js"
+			],
+			[
+				"filter",
+				"WEB-INF\\jsp\\includes\\component\\article\\recensies\\recensiesFilter.jsp"
+			],
+			[
+				"user",
+				"js\\custom\\userData.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"demor",
+				"C:\\working_dir\\Marvel.sublime-projecten\\demorgen.sublime-project"
+			],
+			[
+				"vols",
+				"C:\\working_dir\\Marvel.sublime-projecten\\volkskrant-static.sublime-project"
+			],
+			[
+				"de",
+				"C:\\working_dir\\Marvel.sublime-projecten\\demorgen.sublime-project"
+			],
+			[
+				"demo",
+				"C:\\working_dir\\Marvel.sublime-projecten\\demorgen.sublime-project"
+			],
+			[
+				"volks",
+				"C:\\working_dir\\Marvel.sublime-projecten\\volkskrant.sublime-project"
+			],
+			[
+				"demorg",
+				"C:\\working_dir\\Marvel.sublime-projecten\\demorgen.sublime-project"
+			],
+			[
+				"th",
+				"C:\\working_dir\\advocaat-eric-creytens.be\\this.sublime-project"
+			],
+			[
+				"dmo",
+				"C:\\working_dir\\Marvel.sublime-projecten\\demorgen.sublime-project"
+			],
+			[
+				"",
+				"C:\\sites\\nmc\\sublime\\sublime projecten\\[O] PES-SITE-CORE.sublime-project"
+			],
+			[
+				"pes",
+				"C:\\sites\\nmc\\sublime\\sublime projecten\\[O] PES-SITE-CORE.sublime-project"
+			],
+			[
+				"volk",
+				"C:\\sites\\nmc\\sublime\\sublime projecten\\volkskrant-static.sublime-project"
+			],
+			[
+				"oran",
+				"C:\\sites\\nmc\\sublime\\sublime projecten\\orange-vk.sublime-project"
+			],
+			[
+				"pes si",
+				"C:\\sites\\nmc\\sublime\\sublime projecten\\[T] [4.6] PES-SITE-CORE.sublime-project"
+			],
+			[
+				"ora",
+				"C:\\sites\\nmc\\sublime\\sublime projecten\\orange-vk.sublime-project"
+			],
+			[
+				"st",
+				"/C/sites/nmc/sublime/sublime projecten/[STATIC] VK+.sublime-project"
+			],
+			[
+				"mas",
+				"/C/sites/nmc/sublime/sublime projecten/[master] SITE-CORE.sublime-project"
+			],
+			[
+				"vk",
+				"/C/sites/nmc/sublime/sublime projecten/[STATIC] VK+.sublime-project"
+			],
+			[
+				"3.9",
+				"/C/sites/nmc/sublime/sublime projecten/[T] [3.9] PES-SITE-CORE.sublime-project"
+			],
+			[
+				"3.",
+				"/C/sites/nmc/sublime/sublime projecten/[T] [3.9] PES-SITE-CORE.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 362.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
